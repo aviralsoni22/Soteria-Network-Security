@@ -1,0 +1,93 @@
+Abnormal_URL:
+  drift_status: false
+  p_value: 0.9999999999988914
+DNSRecord:
+  drift_status: false
+  p_value: 0.9905812145228802
+Domain_registeration_length:
+  drift_status: false
+  p_value: 1.0
+Favicon:
+  drift_status: false
+  p_value: 0.656563029604894
+Google_Index:
+  drift_status: false
+  p_value: 0.9999999999583375
+HTTPS_token:
+  drift_status: false
+  p_value: 0.9999996526302489
+Iframe:
+  drift_status: false
+  p_value: 0.9999999999999661
+Links_in_tags:
+  drift_status: false
+  p_value: 0.9999999976335158
+Links_pointing_to_page:
+  drift_status: false
+  p_value: 0.9999934998670769
+Page_Rank:
+  drift_status: false
+  p_value: 1.0
+Prefix_Suffix:
+  drift_status: false
+  p_value: 1.0
+Redirect:
+  drift_status: false
+  p_value: 0.9608720669231505
+Request_URL:
+  drift_status: false
+  p_value: 1.0
+Result:
+  drift_status: false
+  p_value: 1.0
+RightClick:
+  drift_status: false
+  p_value: 1.0
+SFH:
+  drift_status: false
+  p_value: 0.9999999999999994
+SSLfinal_State:
+  drift_status: false
+  p_value: 0.9999995147063517
+Shortining_Service:
+  drift_status: false
+  p_value: 0.9826612275642373
+Statistical_report:
+  drift_status: false
+  p_value: 0.906874411546032
+Submitting_to_email:
+  drift_status: false
+  p_value: 0.11714071702946827
+URL_Length:
+  drift_status: false
+  p_value: 1.0
+URL_of_Anchor:
+  drift_status: false
+  p_value: 0.9999934998670769
+age_of_domain:
+  drift_status: false
+  p_value: 0.9709904385262057
+double_slash_redirecting:
+  drift_status: false
+  p_value: 0.9941214712393011
+having_At_Symbol:
+  drift_status: false
+  p_value: 1.0
+having_IP_Address:
+  drift_status: false
+  p_value: 0.9999999999999983
+having_Sub_Domain:
+  drift_status: false
+  p_value: 0.9999990810083177
+on_mouseover:
+  drift_status: false
+  p_value: 0.9983122730303217
+popUpWidnow:
+  drift_status: false
+  p_value: 0.9815608613035925
+port:
+  drift_status: false
+  p_value: 0.4854408696203213
+web_traffic:
+  drift_status: false
+  p_value: 0.4897085772123564

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/NetworkSecurity/mlruns/0/a5f758918c0b477abafe3fa942d02d5c/artifacts
+end_time: 1735050153793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5f758918c0b477abafe3fa942d02d5c
+run_name: painted-moose-250
+run_uuid: a5f758918c0b477abafe3fa942d02d5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735050144412
+status: 3
+tags: []
+user_id: avira

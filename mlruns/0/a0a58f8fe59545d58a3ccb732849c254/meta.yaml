@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/NetworkSecurity/mlruns/0/a0a58f8fe59545d58a3ccb732849c254/artifacts
+end_time: 1735050160921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0a58f8fe59545d58a3ccb732849c254
+run_name: lyrical-ox-262
+run_uuid: a0a58f8fe59545d58a3ccb732849c254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735050153892
+status: 3
+tags: []
+user_id: avira
